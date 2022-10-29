@@ -1,0 +1,490 @@
+positives\withmask_0.jpg 1 177 83 53 63
+positives\withmask_1.jpg 2 222 33 37 37 319 31 34 37
+positives\withmask_10.jpg 1 122 181 88 121
+positives\withmask_100.jpg 1 221 14 43 45
+positives\withmask_101.jpg 2 100 79 81 98 306 66 70 68
+positives\withmask_102.jpg 1 141 62 81 94
+positives\withmask_103.jpg 1 217 65 74 103
+positives\withmask_104.jpg 0
+positives\withmask_105.jpg 2 134 38 120 135 13 174 84 79
+positives\withmask_106.jpg 0
+positives\withmask_107.jpg 1 131 110 171 243
+positives\withmask_108.jpg 1 74 241 80 112
+positives\withmask_109.jpg 1 170 75 43 49
+positives\withmask_11.jpg 0
+positives\withmask_110.jpg 1 122 30 142 177
+positives\withmask_111.jpg 0
+positives\withmask_112.jpg 4 330 27 37 39 239 27 25 40 154 46 24 28 66 32 34 38
+positives\withmask_113.jpg 1 90 66 65 55
+positives\withmask_114.jpg 3 23 163 86 123 221 81 76 109 113 109 65 80
+positives\withmask_115.jpg 3 284 54 36 37 365 29 33 37 32 78 46 49
+positives\withmask_116.jpg 5 182 123 31 40 295 126 35 43 89 95 31 36 44 121 27 30 15 153 22 30
+positives\withmask_117.jpg 4 234 41 23 28 98 40 28 29 10 25 29 32 303 38 27 26
+positives\withmask_118.jpg 4 252 88 44 52 72 124 51 60 133 91 44 49 218 85 31 36
+positives\withmask_119.jpg 1 59 227 96 117
+positives\withmask_12.jpg 1 224 44 147 202
+positives\withmask_120.jpg 3 77 70 45 50 164 60 44 48 267 27 51 52
+positives\withmask_121.jpg 2 165 84 48 54 280 86 36 40
+positives\withmask_122.jpg 2 196 37 104 145 79 59 111 113
+positives\withmask_123.jpg 2 162 93 35 51 334 110 36 46
+positives\withmask_124.jpg 3 56 54 52 60 185 71 62 72 313 36 42 61
+positives\withmask_125.jpg 1 94 190 111 171
+positives\withmask_126.jpg 1 150 70 123 151
+positives\withmask_127.jpg 1 114 57 52 74
+positives\withmask_128.jpg 1 62 174 111 135
+positives\withmask_129.jpg 4 12 51 47 57 170 95 30 54 286 47 38 65 240 105 28 32
+positives\withmask_13.jpg 6 19 92 56 76 151 137 47 73 241 179 47 68 310 168 34 56 278 95 22 34 249 95 25 44
+positives\withmask_130.jpg 2 243 79 76 90 76 50 83 107
+positives\withmask_131.jpg 2 7 58 35 36 222 31 42 60
+positives\withmask_132.jpg 0
+positives\withmask_133.jpg 0
+positives\withmask_134.jpg 2 113 107 69 84 268 75 55 78
+positives\withmask_135.jpg 1 166 72 97 114
+positives\withmask_136.jpg 1 116 49 43 59
+positives\withmask_137.jpg 4 24 205 28 34 127 181 35 35 204 184 31 37 348 207 47 41
+positives\withmask_138.jpg 6 21 43 22 28 126 52 26 30 272 64 26 31 365 42 23 26 166 101 26 27 216 46 19 25
+positives\withmask_139.jpg 3 248 125 30 42 136 73 32 45 138 42 34 24
+positives\withmask_14.jpg 3 57 195 53 63 256 82 34 49 178 69 36 42
+positives\withmask_140.jpg 1 213 89 80 107
+positives\withmask_141.jpg 1 116 191 101 151
+positives\withmask_142.jpg 1 147 56 61 62
+positives\withmask_143.jpg 6 143 99 25 28 242 44 30 36 270 83 27 34 340 56 25 32 94 69 24 28 0 63 30 60
+positives\withmask_144.jpg 1 44 189 98 133
+positives\withmask_145.jpg 7 16 85 41 47 89 47 37 40 225 126 30 41 290 79 30 29 368 24 29 36 167 56 28 31 217 81 27 37
+positives\withmask_146.jpg 1 183 38 62 92
+positives\withmask_147.jpg 5 14 169 80 93 305 172 75 88 428 146 83 89 123 82 60 62 196 30 53 62
+positives\withmask_148.jpg 7 34 44 22 33 114 59 21 28 193 53 23 33 268 53 18 28 323 43 25 32 168 40 23 28 364 38 25 33
+positives\withmask_149.jpg 0
+positives\withmask_15.jpg 5 289 58 28 32 183 57 23 35 108 54 24 25 248 65 20 28 138 55 23 29
+positives\withmask_150.jpg 0
+positives\withmask_151.jpg 1 172 30 49 53
+positives\withmask_152.jpg 1 310 76 35 38
+positives\withmask_153.jpg 0
+positives\withmask_154.jpg 1 189 26 41 55
+positives\withmask_155.jpg 6 150 84 19 23 100 53 18 21 51 67 20 22 272 64 19 29 210 42 17 25 23 58 19 27
+positives\withmask_156.jpg 0
+positives\withmask_157.jpg 0
+positives\withmask_158.jpg 0
+positives\withmask_159.jpg 1 162 53 85 91
+positives\withmask_16.jpg 0
+positives\withmask_160.jpg 1 160 76 60 77
+positives\withmask_161.jpg 1 115 88 86 128
+positives\withmask_162.jpg 1 174 63 45 68
+positives\withmask_163.jpg 5 169 120 25 34 227 153 21 25 66 156 17 27 359 10 21 27 31 21 25 32
+positives\withmask_164.jpg 1 236 100 28 35
+positives\withmask_165.jpg 8 227 144 38 37 341 116 39 52 270 33 30 46 324 52 27 43 196 110 24 40 40 114 29 38 62 31 29 39 7 41 33 33
+positives\withmask_166.jpg 0
+positives\withmask_167.jpg 1 166 41 66 95
+positives\withmask_168.jpg 1 121 55 77 94
+positives\withmask_169.jpg 1 179 56 41 50
+positives\withmask_17.jpg 3 129 102 20 22 289 110 19 20 198 111 17 21
+positives\withmask_170.jpg 8 20 97 38 43 148 154 43 50 292 117 46 44 105 97 41 44 287 63 29 41 152 55 30 34 358 64 41 50 354 20 28 39
+positives\withmask_171.jpg 0
+positives\withmask_172.jpg 5 122 32 40 60 195 174 37 41 289 135 36 46 209 119 27 31 177 120 27 33
+positives\withmask_173.jpg 3 162 40 80 96 321 41 54 73 60 79 52 59
+positives\withmask_174.jpg 4 312 101 58 74 67 86 26 25 169 122 23 34 148 81 22 32
+positives\withmask_175.jpg 6 159 12 26 33 242 84 21 26 296 40 23 26 211 34 25 27 263 22 23 30 88 46 22 24
+positives\withmask_176.jpg 6 195 34 44 62 356 78 41 58 40 103 44 63 104 83 41 65 338 28 42 41 6 95 30 60
+positives\withmask_177.jpg 1 142 43 50 68
+positives\withmask_178.jpg 1 71 209 75 94
+positives\withmask_179.jpg 2 70 77 100 128 244 158 85 78
+positives\withmask_18.jpg 1 86 48 64 91
+positives\withmask_180.jpg 14 23 231 24 31 77 230 23 29 121 240 24 29 191 256 23 27 306 214 23 30 256 185 22 24 209 188 19 27 178 130 19 22 130 118 17 16 38 156 21 25 152 180 21 23 67 159 19 25 42 106 19 20 26 51 16 16
+positives\withmask_181.jpg 3 214 223 42 51 34 138 32 43 207 59 33 42
+positives\withmask_182.jpg 1 148 161 107 152
+positives\withmask_183.jpg 1 299 124 68 61
+positives\withmask_184.jpg 6 20 36 69 85 270 85 49 51 143 76 52 62 241 13 31 37 331 9 44 36 164 10 31 39
+positives\withmask_185.jpg 5 236 77 30 37 337 63 31 37 2 102 29 39 114 86 35 39 69 88 29 37
+positives\withmask_186.jpg 1 76 187 103 135
+positives\withmask_187.jpg 4 161 18 25 27 224 15 23 27 273 107 19 31 188 73 27 30
+positives\withmask_188.jpg 1 72 57 70 81
+positives\withmask_189.jpg 2 82 59 146 175 268 72 107 136
+positives\withmask_19.jpg 6 254 102 20 24 177 97 24 35 135 83 23 26 109 73 20 29 22 62 23 31 81 88 21 23
+positives\withmask_190.jpg 1 162 70 88 108
+positives\withmask_191.jpg 3 249 30 35 46 172 76 33 47 71 76 31 43
+positives\withmask_192.jpg 1 91 161 123 166
+positives\withmask_193.jpg 1 54 107 163 186
+positives\withmask_194.jpg 1 81 142 104 134
+positives\withmask_195.jpg 1 231 66 74 82
+positives\withmask_196.jpg 0
+positives\withmask_197.jpg 1 127 42 89 115
+positives\withmask_198.jpg 2 163 41 14 19 202 43 18 23
+positives\withmask_199.jpg 3 121 81 26 36 195 85 27 30 293 74 39 39
+positives\withmask_2.jpg 1 101 256 90 120
+positives\withmask_20.jpg 4 233 36 39 51 306 63 31 36 162 68 33 49 116 80 34 40
+positives\withmask_200.jpg 1 291 71 46 64
+positives\withmask_201.jpg 1 102 23 64 71
+positives\withmask_202.jpg 4 196 76 22 34 93 62 19 20 238 59 21 24 21 48 21 27
+positives\withmask_203.jpg 1 99 191 89 137
+positives\withmask_204.jpg 4 177 47 36 43 320 189 45 70 126 177 50 59 9 152 61 99
+positives\withmask_205.jpg 1 78 197 91 120
+positives\withmask_206.jpg 3 80 53 20 29 130 18 24 27 314 15 67 80
+positives\withmask_207.jpg 0
+positives\withmask_208.jpg 2 76 67 38 45 238 88 33 40
+positives\withmask_209.jpg 2 45 76 111 167 241 103 116 146
+positives\withmask_21.jpg 1 131 210 98 127
+positives\withmask_210.jpg 2 141 86 32 41 199 87 28 40
+positives\withmask_211.jpg 0
+positives\withmask_212.jpg 2 50 81 73 91 279 39 59 72
+positives\withmask_213.jpg 4 87 81 33 33 186 33 29 37 274 58 22 31 316 57 19 31
+positives\withmask_214.jpg 1 123 253 72 105
+positives\withmask_215.jpg 0
+positives\withmask_216.jpg 4 142 131 54 48 267 51 58 67 71 63 53 61 2 81 48 77
+positives\withmask_217.jpg 3 199 73 23 27 290 63 25 31 128 73 23 28
+positives\withmask_218.jpg 1 86 64 83 97
+positives\withmask_219.jpg 5 129 169 36 47 134 100 28 31 212 98 26 33 229 180 35 42 243 104 31 39
+positives\withmask_22.jpg 2 136 74 40 40 217 61 37 45
+positives\withmask_220.jpg 6 48 116 34 41 215 75 27 32 155 55 25 26 206 42 22 28 251 36 24 32 125 94 23 36
+positives\withmask_221.jpg 2 124 104 83 104 246 39 74 98
+positives\withmask_222.jpg 0
+positives\withmask_223.jpg 4 312 63 22 30 157 55 19 27 234 52 22 25 49 49 22 27
+positives\withmask_224.jpg 3 54 31 39 50 218 28 28 37 257 57 32 39
+positives\withmask_225.jpg 1 86 144 95 122
+positives\withmask_226.jpg 4 143 37 30 35 276 14 29 34 244 19 26 28 203 74 26 28
+positives\withmask_227.jpg 2 143 25 45 58 202 112 40 61
+positives\withmask_228.jpg 0
+positives\withmask_229.jpg 1 200 52 43 50
+positives\withmask_23.jpg 3 129 41 24 33 51 86 30 35 236 91 31 34
+positives\withmask_230.jpg 1 206 115 17 21
+positives\withmask_231.jpg 1 143 164 109 150
+positives\withmask_232.jpg 2 145 11 103 126 7 66 82 93
+positives\withmask_233.jpg 1 238 47 22 30
+positives\withmask_234.jpg 1 112 55 59 56
+positives\withmask_235.jpg 2 145 38 53 100 207 77 70 89
+positives\withmask_236.jpg 4 246 76 22 25 220 15 26 34 62 34 25 27 20 29 25 29
+positives\withmask_237.jpg 2 167 30 50 65 300 28 22 28
+positives\withmask_238.jpg 3 188 108 29 33 156 166 26 27 48 116 26 34
+positives\withmask_239.jpg 1 131 18 177 232
+positives\withmask_24.jpg 4 162 70 23 32 231 58 18 21 120 63 18 26 71 70 19 19
+positives\withmask_240.jpg 4 0 25 43 56 64 36 38 45 168 52 35 49 346 53 38 41
+positives\withmask_241.jpg 2 124 95 57 74 271 104 53 57
+positives\withmask_242.jpg 2 90 25 43 58 238 49 44 61
+positives\withmask_243.jpg 1 68 42 90 128
+positives\withmask_244.jpg 2 304 52 32 36 200 40 39 43
+positives\withmask_245.jpg 2 180 56 19 28 207 63 18 22
+positives\withmask_246.jpg 2 179 40 20 28 304 30 35 32
+positives\withmask_247.jpg 3 334 8 24 28 184 86 18 23 104 16 22 28
+positives\withmask_248.jpg 1 219 59 83 95
+positives\withmask_249.jpg 1 59 84 122 155
+positives\withmask_25.jpg 1 62 171 120 162
+positives\withmask_250.jpg 1 323 235 41 110
+positives\withmask_251.jpg 1 92 91 127 180
+positives\withmask_252.jpg 2 178 57 30 34 356 62 27 40
+positives\withmask_253.jpg 1 146 44 78 114
+positives\withmask_254.jpg 0
+positives\withmask_255.jpg 1 82 126 105 137
+positives\withmask_256.jpg 6 171 119 54 54 303 113 38 53 308 23 52 59 44 18 51 63 47 114 46 50 41 206 42 48
+positives\withmask_257.jpg 1 103 37 40 39
+positives\withmask_258.jpg 4 90 35 37 41 26 71 28 35 165 52 37 52 283 24 63 71
+positives\withmask_259.jpg 2 143 102 39 44 220 85 46 50
+positives\withmask_26.jpg 0
+positives\withmask_260.jpg 1 57 197 106 116
+positives\withmask_261.jpg 1 71 197 110 125
+positives\withmask_262.jpg 3 98 71 34 54 194 93 36 53 261 104 43 45
+positives\withmask_263.jpg 1 11 144 143 147
+positives\withmask_264.jpg 3 329 18 32 34 122 61 22 23 223 54 18 22
+positives\withmask_265.jpg 1 105 29 43 44
+positives\withmask_266.jpg 3 48 23 40 50 202 49 28 34 296 27 32 36
+positives\withmask_267.jpg 1 91 180 88 117
+positives\withmask_268.jpg 3 99 75 18 22 244 68 18 22 211 81 20 24
+positives\withmask_269.jpg 2 242 86 77 60 458 51 83 105
+positives\withmask_27.jpg 0
+positives\withmask_270.jpg 1 58 187 104 124
+positives\withmask_271.jpg 7 105 108 45 52 71 83 29 38 250 86 34 46 291 56 29 30 181 55 25 40 206 95 115 70 321 165 63 90
+positives\withmask_272.jpg 0
+positives\withmask_273.jpg 2 234 21 28 32 318 87 25 27
+positives\withmask_274.jpg 1 187 104 31 38
+positives\withmask_275.jpg 4 51 9 88 98 260 33 132 128 247 249 104 102 73 240 73 86
+positives\withmask_276.jpg 1 97 74 85 85
+positives\withmask_277.jpg 0
+positives\withmask_278.jpg 1 147 34 105 120
+positives\withmask_279.jpg 1 131 35 79 88
+positives\withmask_28.jpg 1 227 109 95 119
+positives\withmask_280.jpg 2 271 28 26 28 110 59 25 31
+positives\withmask_281.jpg 1 142 30 120 166
+positives\withmask_282.jpg 1 143 57 46 52
+positives\withmask_283.jpg 1 224 65 45 49
+positives\withmask_284.jpg 3 87 127 51 55 202 115 28 34 320 115 23 33
+positives\withmask_285.jpg 1 102 218 108 126
+positives\withmask_286.jpg 1 111 167 103 128
+positives\withmask_287.jpg 1 216 23 51 61
+positives\withmask_288.jpg 4 88 57 39 49 175 57 47 52 299 72 43 54 265 74 33 43
+positives\withmask_289.jpg 7 273 55 22 29 123 42 29 33 19 34 24 28 54 45 24 30 162 90 28 31 364 32 23 27 213 35 23 30
+positives\withmask_29.jpg 2 94 145 50 60 242 130 49 52
+positives\withmask_290.jpg 3 142 30 26 40 193 16 28 32 22 14 30 40
+positives\withmask_291.jpg 1 174 29 36 45
+positives\withmask_292.jpg 1 198 60 34 49
+positives\withmask_293.jpg 3 26 73 136 155 167 92 84 124 260 63 79 115
+positives\withmask_294.jpg 6 79 43 22 28 329 76 49 50 330 10 53 52 160 73 23 25 118 73 27 34 193 49 28 29
+positives\withmask_295.jpg 2 81 42 40 55 262 54 40 45
+positives\withmask_296.jpg 2 124 114 49 54 205 115 39 39
+positives\withmask_297.jpg 2 346 40 131 178 46 27 146 177
+positives\withmask_298.jpg 0
+positives\withmask_299.jpg 5 44 66 19 30 103 40 23 31 253 31 25 32 312 17 27 38 191 50 24 28
+positives\withmask_3.jpg 1 190 19 54 66
+positives\withmask_30.jpg 0
+positives\withmask_300.jpg 1 98 124 120 142
+positives\withmask_301.jpg 1 71 105 119 160
+positives\withmask_302.jpg 0
+positives\withmask_303.jpg 1 160 21 99 133
+positives\withmask_304.jpg 2 88 29 28 26 161 12 27 30
+positives\withmask_305.jpg 3 51 89 72 80 240 51 63 69 425 120 58 56
+positives\withmask_306.jpg 3 89 55 34 38 188 13 27 38 189 139 36 45
+positives\withmask_307.jpg 0
+positives\withmask_308.jpg 2 53 39 42 47 347 66 35 37
+positives\withmask_309.jpg 1 127 32 116 136
+positives\withmask_31.jpg 1 104 44 53 63
+positives\withmask_310.jpg 1 234 52 48 57
+positives\withmask_311.jpg 0
+positives\withmask_312.jpg 2 192 89 39 51 192 89 39 51
+positives\withmask_313.jpg 1 50 182 138 178
+positives\withmask_314.jpg 4 204 62 27 33 245 65 24 32 160 68 26 27 98 57 27 28
+positives\withmask_315.jpg 5 138 101 22 23 257 104 19 22 194 88 24 25 58 86 25 34 322 82 29 27
+positives\withmask_316.jpg 1 90 161 100 144
+positives\withmask_317.jpg 2 143 236 19 22 217 233 21 22
+positives\withmask_318.jpg 1 123 67 34 45
+positives\withmask_319.jpg 4 80 39 30 38 136 55 31 40 180 63 26 29 225 61 22 28
+positives\withmask_32.jpg 1 94 41 36 38
+positives\withmask_320.jpg 2 288 57 42 60 207 64 50 51
+positives\withmask_321.jpg 2 186 87 32 42 119 91 26 34
+positives\withmask_322.jpg 4 126 133 67 89 232 68 69 77 16 55 51 64 0 217 72 71
+positives\withmask_323.jpg 2 240 104 126 113 156 109 76 75
+positives\withmask_324.jpg 3 49 126 31 37 93 119 38 39 279 122 28 35
+positives\withmask_325.jpg 4 93 31 29 33 174 55 29 35 236 86 27 32 304 70 40 35
+positives\withmask_326.jpg 0
+positives\withmask_327.jpg 2 50 54 108 150 233 246 138 134
+positives\withmask_328.jpg 1 141 5 110 119
+positives\withmask_329.jpg 1 212 56 97 112
+positives\withmask_33.jpg 0
+positives\withmask_330.jpg 3 168 91 42 55 81 128 41 52 26 109 36 42
+positives\withmask_331.jpg 3 173 42 78 84 303 33 55 74 38 35 52 55
+positives\withmask_332.jpg 1 149 119 107 105
+positives\withmask_333.jpg 4 50 46 37 46 193 89 32 44 291 85 40 55 230 38 43 53
+positives\withmask_334.jpg 1 67 181 117 134
+positives\withmask_335.jpg 1 202 71 33 44
+positives\withmask_336.jpg 3 164 86 53 70 274 85 69 56 89 117 47 54
+positives\withmask_337.jpg 2 227 97 48 54 344 57 32 45
+positives\withmask_338.jpg 0
+positives\withmask_339.jpg 1 100 212 100 135
+positives\withmask_34.jpg 1 244 36 28 36
+positives\withmask_340.jpg 0
+positives\withmask_341.jpg 1 99 258 83 112
+positives\withmask_342.jpg 1 168 53 72 91
+positives\withmask_343.jpg 1 101 195 101 136
+positives\withmask_344.jpg 2 309 70 35 41 149 53 29 36
+positives\withmask_345.jpg 1 92 199 81 124
+positives\withmask_346.jpg 5 25 175 37 41 99 164 40 42 283 193 31 44 195 175 40 47 333 179 29 32
+positives\withmask_347.jpg 3 292 103 32 35 136 200 28 34 81 136 31 27
+positives\withmask_348.jpg 2 225 53 39 49 320 52 34 43
+positives\withmask_349.jpg 2 194 77 77 106 305 168 85 105
+positives\withmask_35.jpg 2 152 38 40 56 289 56 23 26
+positives\withmask_350.jpg 3 66 53 38 36 288 65 63 69 171 22 50 48
+positives\withmask_351.jpg 3 102 70 46 49 198 18 29 30 314 9 27 34
+positives\withmask_352.jpg 1 84 110 97 118
+positives\withmask_353.jpg 4 275 69 23 33 299 84 24 37 127 15 24 27 169 74 31 29
+positives\withmask_354.jpg 1 105 187 108 145
+positives\withmask_355.jpg 0
+positives\withmask_356.jpg 1 124 36 26 40
+positives\withmask_357.jpg 6 30 56 66 85 168 53 64 78 303 47 61 85 304 231 69 83 161 228 76 92 23 228 78 85
+positives\withmask_358.jpg 0
+positives\withmask_359.jpg 3 61 68 34 48 176 24 43 58 296 42 42 49
+positives\withmask_36.jpg 1 141 45 61 69
+positives\withmask_360.jpg 2 38 20 93 107 211 222 144 145
+positives\withmask_361.jpg 5 156 17 21 28 199 25 22 27 256 38 17 24 275 39 18 23 320 44 16 22
+positives\withmask_362.jpg 0
+positives\withmask_363.jpg 1 214 65 135 203
+positives\withmask_364.jpg 1 152 30 197 224
+positives\withmask_365.jpg 2 103 45 74 84 289 3 97 89
+positives\withmask_366.jpg 2 135 192 32 44 290 104 32 34
+positives\withmask_367.jpg 2 93 100 29 34 24 49 24 32
+positives\withmask_368.jpg 1 108 43 64 66
+positives\withmask_369.jpg 2 102 41 85 103 219 61 83 73
+positives\withmask_37.jpg 3 62 54 53 58 119 23 44 54 282 55 45 53
+positives\withmask_370.jpg 4 17 49 61 81 146 95 55 75 241 134 58 73 305 126 47 60
+positives\withmask_371.jpg 0
+positives\withmask_372.jpg 1 106 168 118 153
+positives\withmask_373.jpg 1 138 114 211 210
+positives\withmask_374.jpg 3 219 19 46 55 158 41 34 45 264 47 38 42
+positives\withmask_375.jpg 2 73 162 54 64 202 108 55 69
+positives\withmask_376.jpg 3 63 23 51 68 199 96 31 44 125 98 20 31
+positives\withmask_377.jpg 0
+positives\withmask_378.jpg 2 188 111 38 45 275 95 40 57
+positives\withmask_379.jpg 3 142 74 60 80 266 30 67 91 41 124 46 65
+positives\withmask_38.jpg 1 62 45 125 137
+positives\withmask_380.jpg 3 179 42 38 43 299 21 26 34 75 17 26 32
+positives\withmask_381.jpg 3 103 110 69 74 206 105 67 84 12 144 51 60
+positives\withmask_382.jpg 0
+positives\withmask_383.jpg 0
+positives\withmask_384.jpg 3 242 138 39 47 300 117 29 46 346 148 38 56
+positives\withmask_385.jpg 5 144 54 32 52 180 49 32 41 236 55 27 39 47 65 39 44 13 97 41 41
+positives\withmask_386.jpg 1 84 27 378 349
+positives\withmask_387.jpg 2 312 72 21 26 106 56 24 23
+positives\withmask_388.jpg 3 98 35 53 62 185 41 46 62 273 35 52 49
+positives\withmask_389.jpg 4 160 38 26 36 123 64 25 29 92 53 26 28 254 229 39 42
+positives\withmask_39.jpg 1 102 157 122 154
+positives\withmask_390.jpg 1 217 22 53 63
+positives\withmask_391.jpg 3 172 99 36 50 206 58 35 46 325 85 36 49
+positives\withmask_392.jpg 7 123 29 29 36 295 106 30 40 180 88 34 44 2 134 69 100 256 20 29 32 358 78 27 28 315 34 27 34
+positives\withmask_393.jpg 3 120 55 36 45 269 68 32 44 19 37 53 61
+positives\withmask_394.jpg 2 120 137 32 39 25 132 35 39
+positives\withmask_395.jpg 1 142 98 118 113
+positives\withmask_396.jpg 0
+positives\withmask_397.jpg 1 165 56 69 83
+positives\withmask_398.jpg 3 180 46 46 56 269 91 43 51 117 58 32 46
+positives\withmask_399.jpg 2 96 80 50 66 148 108 33 48
+positives\withmask_4.jpg 1 28 258 136 140
+positives\withmask_40.jpg 2 91 16 27 33 181 70 26 31
+positives\withmask_400.jpg 1 60 63 60 51
+positives\withmask_401.jpg 0
+positives\withmask_402.jpg 3 21 52 35 46 302 74 25 31 106 43 28 35
+positives\withmask_403.jpg 4 139 77 51 45 217 177 53 51 301 121 57 53 245 116 38 41
+positives\withmask_404.jpg 0
+positives\withmask_405.jpg 0
+positives\withmask_406.jpg 1 190 105 30 39
+positives\withmask_407.jpg 1 118 51 164 157
+positives\withmask_408.jpg 1 111 143 117 154
+positives\withmask_409.jpg 0
+positives\withmask_41.jpg 1 140 66 133 137
+positives\withmask_410.jpg 0
+positives\withmask_411.jpg 1 85 68 82 86
+positives\withmask_412.jpg 2 117 36 43 60 247 89 42 48
+positives\withmask_413.jpg 1 213 42 51 45
+positives\withmask_414.jpg 0
+positives\withmask_415.jpg 0
+positives\withmask_416.jpg 2 114 117 49 59 208 116 58 56
+positives\withmask_417.jpg 2 33 132 27 35 128 111 33 40
+positives\withmask_418.jpg 2 198 85 38 45 334 65 29 39
+positives\withmask_419.jpg 9 276 199 18 22 210 119 18 22 167 135 21 25 120 121 19 24 59 143 20 26 312 135 16 22 350 120 19 20 141 204 22 26 40 199 20 25
+positives\withmask_42.jpg 1 97 100 57 60
+positives\withmask_420.jpg 3 105 33 50 54 189 59 40 54 309 78 30 36
+positives\withmask_421.jpg 1 107 120 129 168
+positives\withmask_422.jpg 3 220 14 45 58 155 43 37 41 264 50 39 38
+positives\withmask_423.jpg 1 188 87 76 95
+positives\withmask_424.jpg 1 149 85 48 59
+positives\withmask_425.jpg 1 59 217 105 132
+positives\withmask_426.jpg 5 183 45 43 41 296 60 24 26 232 51 23 27 95 75 25 23 24 68 23 27
+positives\withmask_427.jpg 5 150 96 32 44 212 91 31 35 78 71 35 45 1 33 33 43 314 89 28 34
+positives\withmask_428.jpg 4 173 93 18 25 141 101 17 18 230 91 17 23 293 104 18 20
+positives\withmask_429.jpg 1 85 124 111 153
+positives\withmask_43.jpg 0
+positives\withmask_430.jpg 1 229 60 156 203
+positives\withmask_431.jpg 1 77 170 108 131
+positives\withmask_432.jpg 7 3 134 63 100 183 91 28 40 295 111 31 36 124 29 29 35 258 18 28 37 317 36 22 30 359 76 25 32
+positives\withmask_433.jpg 1 103 184 103 141
+positives\withmask_434.jpg 1 78 174 166 178
+positives\withmask_435.jpg 1 132 223 103 147
+positives\withmask_436.jpg 1 130 79 131 134
+positives\withmask_437.jpg 3 93 39 26 27 146 34 24 30 301 13 24 32
+positives\withmask_438.jpg 1 47 174 127 157
+positives\withmask_439.jpg 1 179 65 43 50
+positives\withmask_44.jpg 2 225 72 98 113 45 138 91 99
+positives\withmask_440.jpg 1 115 90 162 152
+positives\withmask_441.jpg 1 180 78 91 98
+positives\withmask_442.jpg 0
+positives\withmask_443.jpg 5 21 55 22 29 164 110 27 32 123 59 28 33 272 79 25 30 214 56 22 29
+positives\withmask_444.jpg 0
+positives\withmask_445.jpg 1 290 150 72 62
+positives\withmask_446.jpg 1 154 80 120 162
+positives\withmask_447.jpg 3 153 82 67 95 253 111 96 101 116 136 56 62
+positives\withmask_448.jpg 2 152 68 52 61 322 105 29 41
+positives\withmask_449.jpg 5 186 107 80 96 107 79 62 79 321 135 66 67 251 13 51 56 0 146 78 98
+positives\withmask_45.jpg 8 139 187 25 33 214 156 27 34 98 67 26 33 38 146 24 33 4 168 32 44 189 52 23 29 288 5 25 31 252 6 25 32
+positives\withmask_450.jpg 3 26 45 50 56 140 61 51 62 236 49 122 128
+positives\withmask_451.jpg 3 137 70 33 42 227 78 34 37 293 60 51 45
+positives\withmask_452.jpg 0
+positives\withmask_453.jpg 1 189 59 44 43
+positives\withmask_454.jpg 1 92 31 59 67
+positives\withmask_455.jpg 3 90 126 49 57 204 119 28 31 317 117 25 32
+positives\withmask_456.jpg 2 91 92 31 38 177 178 26 37
+positives\withmask_457.jpg 3 273 17 23 34 231 19 22 30 96 30 25 27
+positives\withmask_458.jpg 2 98 50 41 50 319 64 42 44
+positives\withmask_459.jpg 1 8 204 131 139
+positives\withmask_46.jpg 0
+positives\withmask_460.jpg 1 129 87 53 49
+positives\withmask_461.jpg 4 76 11 41 51 23 38 40 46 141 35 28 35 188 65 26 31
+positives\withmask_462.jpg 1 116 219 107 120
+positives\withmask_463.jpg 3 182 111 29 33 325 94 34 36 62 114 28 34
+positives\withmask_464.jpg 2 64 160 84 105 250 169 101 111
+positives\withmask_465.jpg 1 75 265 104 111
+positives\withmask_466.jpg 1 212 47 93 87
+positives\withmask_467.jpg 2 130 58 57 67 284 29 53 65
+positives\withmask_468.jpg 3 28 24 100 130 132 64 99 122 268 56 103 123
+positives\withmask_469.jpg 4 320 49 33 44 189 30 30 35 144 37 30 34 238 66 27 33
+positives\withmask_47.jpg 2 39 44 152 202 207 96 136 148
+positives\withmask_470.jpg 0
+positives\withmask_471.jpg 2 145 96 91 115 40 62 71 76
+positives\withmask_472.jpg 2 211 50 22 29 343 38 29 31
+positives\withmask_473.jpg 3 167 122 58 79 380 115 66 81 63 113 61 67
+positives\withmask_474.jpg 1 84 57 127 107
+positives\withmask_475.jpg 1 230 65 65 80
+positives\withmask_476.jpg 1 129 268 84 107
+positives\withmask_477.jpg 1 35 149 128 153
+positives\withmask_478.jpg 4 277 102 60 82 190 112 31 39 57 92 30 41 111 128 31 32
+positives\withmask_479.jpg 0
+positives\withmask_48.jpg 2 126 88 50 57 215 116 44 48
+positives\withmask_480.jpg 4 82 49 50 80 194 115 48 62 211 39 39 58 307 21 43 56
+positives\withmask_481.jpg 3 107 35 81 87 289 89 94 88 232 35 82 103
+positives\withmask_482.jpg 4 172 75 76 75 292 81 65 64 103 106 44 48 3 132 35 44
+positives\withmask_483.jpg 2 180 95 29 38 269 68 28 36
+positives\withmask_484.jpg 2 109 87 61 81 80 25 63 56
+positives\withmask_485.jpg 0
+positives\withmask_486.jpg 2 102 88 38 46 296 146 37 47
+positives\withmask_487.jpg 1 181 76 30 35
+positives\withmask_488.jpg 1 186 30 53 61
+positives\withmask_489.jpg 2 174 47 109 107 98 72 61 81
+positives\withmask_49.jpg 1 111 88 129 145
+positives\withmask_5.jpg 0
+positives\withmask_50.jpg 1 73 180 122 141
+positives\withmask_51.jpg 3 128 17 26 29 211 56 21 25 298 59 19 23
+positives\withmask_52.jpg 0
+positives\withmask_53.jpg 2 114 105 68 89 268 70 77 84
+positives\withmask_54.jpg 3 217 78 27 32 270 24 29 30 192 7 26 31
+positives\withmask_55.jpg 1 149 80 103 132
+positives\withmask_56.jpg 3 181 98 38 39 283 47 31 35 328 92 40 45
+positives\withmask_57.jpg 0
+positives\withmask_58.jpg 1 56 125 102 130
+positives\withmask_59.jpg 0
+positives\withmask_6.jpg 4 189 43 46 68 41 44 52 69 261 83 41 48 365 105 34 45
+positives\withmask_60.jpg 5 99 34 26 36 284 20 34 35 201 70 27 26 171 28 25 33 348 12 23 28
+positives\withmask_61.jpg 0
+positives\withmask_62.jpg 0
+positives\withmask_63.jpg 2 73 41 105 105 268 85 44 56
+positives\withmask_64.jpg 2 177 36 26 33 325 23 28 35
+positives\withmask_65.jpg 2 223 31 45 50 320 30 35 49
+positives\withmask_66.jpg 6 3 53 22 27 111 51 22 25 220 73 19 26 322 79 21 23 352 61 21 22 293 50 19 28
+positives\withmask_67.jpg 4 3 101 59 79 318 16 75 85 152 79 19 20 208 60 19 19
+positives\withmask_68.jpg 1 41 206 102 130
+positives\withmask_69.jpg 2 65 60 83 92 244 86 108 109
+positives\withmask_7.jpg 2 125 98 46 57 213 89 43 54
+positives\withmask_70.jpg 0
+positives\withmask_71.jpg 1 84 168 111 138
+positives\withmask_72.jpg 0
+positives\withmask_73.jpg 2 9 42 29 32 357 35 31 28
+positives\withmask_74.jpg 2 10 85 121 130 310 122 100 117
+positives\withmask_75.jpg 3 195 108 37 48 245 135 31 39 294 169 27 42
+positives\withmask_76.jpg 3 273 23 40 50 40 48 61 62 183 103 50 60
+positives\withmask_77.jpg 1 164 36 129 158
+positives\withmask_78.jpg 1 114 239 111 131
+positives\withmask_79.jpg 1 65 173 106 116
+positives\withmask_8.jpg 4 153 137 60 68 258 85 48 62 95 38 46 50 25 81 37 49
+positives\withmask_80.jpg 1 111 37 126 171
+positives\withmask_81.jpg 1 206 84 169 188
+positives\withmask_82.jpg 0
+positives\withmask_83.jpg 2 45 87 25 29 325 69 31 40
+positives\withmask_84.jpg 4 192 35 60 69 38 56 57 63 347 40 51 63 100 52 45 56
+positives\withmask_85.jpg 1 105 46 67 72
+positives\withmask_86.jpg 2 108 44 49 55 14 64 40 40
+positives\withmask_87.jpg 1 273 61 54 62
+positives\withmask_88.jpg 1 87 37 41 39
+positives\withmask_89.jpg 1 166 18 31 40
+positives\withmask_9.jpg 1 147 21 370 364
+positives\withmask_90.jpg 2 132 76 61 73 300 156 53 59
+positives\withmask_91.jpg 1 53 167 130 144
+positives\withmask_92.jpg 2 66 52 22 32 96 52 27 29
+positives\withmask_93.jpg 1 210 37 64 75
+positives\withmask_94.jpg 2 196 46 46 58 142 49 47 47
+positives\withmask_95.jpg 2 255 41 26 32 167 28 32 42
+positives\withmask_96.jpg 2 68 121 53 63 158 78 35 51
+positives\withmask_97.jpg 1 76 45 73 77
+positives\withmask_98.jpg 1 226 70 97 106
+positives\withmask_99.jpg 1 90 185 113 133
