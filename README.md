@@ -10,7 +10,7 @@ Algoritmo Haar Cascade treinado para reconhecer pessoas utilizando máscaras.
 > https://drive.google.com/drive/folders/1kVPQ6bN_kxeFy2ELEXfx0zLV7l5gkP30?usp=sharing
 
 ### Último estágio do treinamento
-![last stage gif](last_stage.gif)
+![last stage gif](etc/last_stage.giflast_stage.gif)
 
 ### Exemplo de aplicação
-![exemplo 1](example_1.jpg)
+![exemplo 1](etc/example_1.jpg)
